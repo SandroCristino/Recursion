@@ -11,7 +11,7 @@
 In order to setup and work on this project on your own, you will need to:
 
 1. Clone this project:  
-   git@github.com:SandyWezzy/weather_app.git
+   git@github.com:SandyWezzy/Recursion.git
 
 2. Once you have cloned this project, you can install the required dependencies by using:  
    `npm install`
